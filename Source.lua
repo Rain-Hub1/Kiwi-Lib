@@ -28,3 +28,5 @@ end
 Lib:Demo()
 
 return Lib
+-- Preto "#0f0f0f"
+-- Azul "#265dff"
