@@ -1,4 +1,5 @@
-local Creator = require("./Ui/Window.lua").new
-Creator:Print({
-    Name = "Ola kkk"
+local Win = require("Ui.Window")
+
+Win:Print({
+  Text = "Ola kkk"
 })
