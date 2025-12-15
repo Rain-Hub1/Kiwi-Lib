@@ -1,5 +1,5 @@
 local Win = {}
-  function Print(Info)
+  function Win:Print(Info)
     local Hi = Info.Name or "Oi"
     print(Hi)
   end
